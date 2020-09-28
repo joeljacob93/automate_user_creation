@@ -1,5 +1,5 @@
 # create_users
-Automating user accounts creation along with with SSH keys and hashed passwords
+Automating user accounts creation along with SSH keys and hashed passwords
 
 
 
